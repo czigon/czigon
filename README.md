@@ -77,14 +77,6 @@ Atualmente aprofundando conhecimentos no **ecossistema Java**, incluindo:
 
 Atuar como **Desenvolvedor Java Júnior ou Estagiário**, participando de projetos reais, aprendendo com o time e evoluindo tecnicamente de forma consistente.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=czigon&show_icons=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czigon&layout=compact"/>
-</p>
 
 ---
 
