@@ -5,10 +5,10 @@ Desenvolvedor de Software em formação • Foco em Java & Full Stack
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/caio-zigon">
+  <a href="https://www.linkedin.com/in/caio-zigon-b2511b144">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:caio.zigon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -56,7 +56,7 @@ Atualmente estudo **Java de forma aprofundada**, com foco em **APIs, arquitetura
 ### 🧩 Mini CRM – React + TypeScript
 Aplicação de CRM com cadastro, edição e exclusão de clientes, simulação de API, persistência de dados e foco em boas práticas.
 
-🔗 Repositório: *(adicione o link do projeto)*
+🔗 Repositório: https://github.com/czigon/mini-crm-react
 
 > Projeto desenvolvido com foco em organização, tipagem forte e padrões utilizados no mercado.
 
