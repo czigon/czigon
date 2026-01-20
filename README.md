@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Caio!;Java+Developer;Game+Server+Dev;Apaixonado+por+MMORPGs" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Caio!;Java+Developer;Game+Server+Dev;" alt="Typing Effect" />
 </h1>
 
 <p align="center">
