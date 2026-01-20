@@ -1,57 +1,53 @@
-<h1 align="center">Olá, eu sou o Caio Zigon 👋</h1>
+<div align="center">
+  <img height="180" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b6bc-46e5-b657-95cb66e1e072.gif"  />
+</div>
+
+<h1 align="center">Olá, sou o Caio! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">☕ Desenvolvedor Java em formação | 💆‍♂️ Massoterapeuta | 🎮 Entusiasta de Game Dev</h3>
 
 <p align="center">
-Desenvolvedor de Software em formação • Foco em Java & Full Stack  
+  <em>"Transformando café em código e ideias em realidade."</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/caio-zigon-b2511b144">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:caio.zigon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/czigon">
+    <img src="https://img.shields.io/github/followers/czigon?label=Follow&style=social" alt="Follow">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+### 👨‍💻 Sobre Mim
 
-Sou um profissional em **transição de carreira para tecnologia**, atualmente focado no desenvolvimento **Java e Full Stack**.  
-Tenho perfil analítico, gosto de entender o problema antes de codar e busco sempre escrever código **limpo, organizado e sustentável**.
+Atualmente estou focado em me especializar no ecossistema **Java**, construindo aplicações robustas com **Spring Boot**. Tenho um background único como Massoterapeuta, o que me ensinou disciplina e atenção aos detalhes — habilidades que agora aplico na arquitetura de software.
 
-Atualmente estudo **Java de forma aprofundada**, com foco em **APIs, arquitetura, boas práticas e projetos reais**, além de manter experiência prática em Front-end com React.
+Também tenho um pé no desenvolvimento de jogos, com interesse em servidores privados (DMO) e **Unreal Engine**.
 
----
-
-## 🚀 Tecnologias & Stack
-
-### 💻 Back-end
-- Java  
-- Spring Boot  
-- APIs REST  
-- Programação Orientada a Objetos (POO)  
-- SOLID  
-- Clean Architecture  
-- Integração com bancos de dados  
-
-### 🌐 Front-end
-- JavaScript (ES6+)  
-- React  
-- TypeScript  
-- HTML5  
-- CSS3  
-- Tailwind CSS  
-
-### 🛠️ Ferramentas & DevOps
-- Git & GitHub  
-- Docker  
-- Noções de Kubernetes  
-- Testes e qualidade de código  
+- 🔭 **Trabalhando atualmente em:** [MedVoll API](https://github.com/czigon/medvoll-api) (Gestão de Clínicas Médicas).
+- 🌱 **Estudando:** Spring Boot 3, Spring Security, JWT e Boas Práticas (SOLID).
+- 🎮 **Hobby:** Desenvolvimento de servidores de jogos e RPGs.
 
 ---
 
-## 📌 Projetos em Destaque
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"/>
+  
+  <br>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal"/>
+  <img src="https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
+  
+</div>
+
+---
+
+## 📌 Projetos 
 
 ### 🧩 Mini CRM – React + TypeScript
 Aplicação de CRM com cadastro, edição e exclusão de clientes, simulação de API, persistência de dados e foco em boas práticas.
@@ -62,23 +58,19 @@ Aplicação de CRM com cadastro, edição e exclusão de clientes, simulação d
 
 ---
 
-## 📚 Em aprendizado contínuo
+### 📊 Estatísticas do GitHub
 
-Atualmente aprofundando conhecimentos no **ecossistema Java**, incluindo:
-- Spring Boot
-- Arquitetura Limpa e Hexagonal
-- Mensageria (Kafka)
-- Testes automatizados
-- Containers e deploy
-
----
-
-## 🎯 Objetivo profissional
-
-Atuar como **Desenvolvedor Java Júnior ou Estagiário**, participando de projetos reais, aprendendo com o time e evoluindo tecnicamente de forma consistente.
-
+<div align="center">
+  <a href="https://github.com/czigon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=czigon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czigon&layout=compact&theme=dracula"/>
+  </a>
+</div>
 
 ---
 
-⭐ Obrigado por visitar meu perfil!  
-Fique à vontade para explorar meus repositórios 🚀
+<div align="center">
+ <i>Vamos nos conectar!</i><br>
+ <a href="mailto:SEU_EMAIL_AQUI" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="SEU_LINK_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
