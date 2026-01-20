@@ -47,6 +47,14 @@ Também tenho um pé no desenvolvimento de jogos, com interesse em servidores pr
 
 ---
 
+### 🐍 Minhas Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/czigon/czigon/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 📌 Projetos 
 
 ### 🧩 Mini CRM – React + TypeScript
