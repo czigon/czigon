@@ -8,11 +8,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor focado em **Java** e entusiasta do desenvolvimento de jogos. Tenho experiência prática na configuração e desenvolvimento de servidores privados de MMORPG e estou expandindo minhas habilidades em arquitetura de software e Full Stack.
+Sou um desenvolvedor em formação, focado no ecossistema **Java**. Estou migrando para a área de tecnologia e atualmente dedico meus estudos à arquitetura de software, construção de APIs REST e gestão de bancos de dados.
 
-* 🔭 **Atualmente trabalhando em:** Um servidor privado de **Digimon Masters Online (DMO)** (Configuração, Debugging e Tradução) e no projeto **MedVoll** (Gestão médica com Java/Spring).
-* 🌱 **Atualmente aprendendo:** Aprofundando em Java Spring Boot e PostgreSQL.
-* 🎮 **Interesse:** Criação de ferramentas para jogos e emulação de servidores.
+Busco minha primeira oportunidade (Estágio ou Júnior) para aplicar meus conhecimentos em **Spring Boot** e contribuir com soluções reais. Tenho facilidade em aprender tecnologias novas por conta própria, como demonstrado na minha experiência configurando servidores de jogos.
+
+* 🎓 **Foco de Estudo:** Java, Spring Boot, Hibernate e PostgreSQL.
+* 💼 **Objetivo:** Oportunidade como Desenvolvedor Backend Júnior ou Estagiário.
+* 🚀 **Diferencial:** Experiência prática com lógica de servidores (Emulação de MMORPG).
 
 ---
 
